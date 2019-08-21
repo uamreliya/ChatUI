@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#005ca6</color>
+    <color name="colorAccent">#005ca6</color>
+    <color name="waterBlue">#1988d8</color>
+    <color name="paleTeal">#82c7bf</color>
+    <color name="paleTealTwo">#70bcc4</color>
+    <color name="darkBlue">#84c8bf</color>
+    <color name="white">#FFFFFF</color>
+</resources>
